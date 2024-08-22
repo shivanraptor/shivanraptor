@@ -13,12 +13,12 @@ Served clients:
 CSL, Donnie Yen, FedEx, Immigration Department of HKSAR Government, Maxims, Microsoft, MTR Corporation, TVB, etc.
 
 ## Contributions to Computational Linguistics
----
+
 - Created a Cantonese-Written Chinese parallel corpus of 1M sentences: https://huggingface.co/datasets/raptorkwok/cantonese-chinese-dataset-gen2
 - Created a Cantonese dataset of 30M sentences: https://huggingface.co/datasets/raptorkwok/cantonese_sentences
 
 The above datasets will be expanded soon.
 
 ## Find me?
----
+
 If you want to know more about me and my projects, please browse my [personal website](https://raptor.hk).
